@@ -12,3 +12,5 @@ Skills
 
 DB & Data   
 Algorithms & AI   
+
+Projet réalisé en duo avec Xavier Martin : https://github.com/xaviave
